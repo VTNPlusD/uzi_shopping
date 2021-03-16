@@ -55,8 +55,8 @@ MAIL
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
-MAIL_USERNAME=noreplyshoppinglyn@gmail.com
-MAIL_PASSWORD=Linh2510
+MAIL_USERNAME=noreplyshopping@gmail.com
+MAIL_PASSWORD=
 MAIL_ENCRYPTION=tls
 ```
 
